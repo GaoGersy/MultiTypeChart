@@ -1,0 +1,2 @@
+# MultiTypeChart
+基于highcharts实现的单站点多要素和多站点单要素组件
